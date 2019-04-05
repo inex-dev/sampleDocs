@@ -1,0 +1,18 @@
+site_name: Пример документации
+repo_url: https://github.com/example/repository/
+nav:
+    - Описание: index.md
+    - Установка и настройка MKDocks: install.md
+    - Установка и настройка тем: theme.md
+plugins:
+    - search:
+        lang: [ru, en]
+theme:
+    name: 'material'
+    language: 'ru'
+extra:
+    search:
+        language: 'en, de, ru'
+markdown_extensions:
+    - codehilite
+    - admonition
