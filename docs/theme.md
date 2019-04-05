@@ -17,5 +17,11 @@ theme:
   name: 'material'
 ```
 
+Добавим установленную тему в настроечный файл ```mkdocs.yml```:
+```yaml
+theme:
+  name: 'material'
+```
+
 
 
