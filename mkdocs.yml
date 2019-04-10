@@ -1,5 +1,5 @@
 site_name: Пример документации
-repo_url: https://github.com/example/repository/
+repo_url: https://sampledocumentation.readthedocs.io
 nav:
     - Описание: index.md
     - Установка и настройка MKDocks: install.md
